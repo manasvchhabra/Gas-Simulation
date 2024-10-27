@@ -1,4 +1,4 @@
-**Modeling of Particle Dynamics and Conservation Laws**
+**Advanced Gas Simulation: Particle Dynamics and Statistical Analysis**
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15116515&assignment_repo_type=AssignmentRepo)
 
@@ -8,7 +8,9 @@ The simulation encompasses a variety of physical phenomena, including the dynami
 
 
 **Simulation:**
-[![Simulation](https://github.com/user-attachments/assets/4781df6e-05d6-44d8-affd-18dba94ac1e2)
+
+![gas_simulation](https://github.com/user-attachments/assets/15e608c1-b399-45a3-bba5-cb82cb79f9d3)
+
 
 **Summary Report:**
 https://batmandor.github.io/gas-simulation-report
