@@ -8,7 +8,7 @@ The simulation encompasses a variety of physical phenomena, including the dynami
 
 
 **Simulation:**
-https://github.com/user-attachments/assets/4781df6e-05d6-44d8-affd-18dba94ac1e2
+[![Simulation](https://github.com/user-attachments/assets/4781df6e-05d6-44d8-affd-18dba94ac1e2)
 
 **Summary Report:**
 https://batmandor.github.io/gas-simulation-report
