@@ -7,13 +7,33 @@ This project focuses on the simulation of fundamental physics concepts, particul
 The simulation encompasses a variety of physical phenomena, including the dynamics of particle collisions, the visualization of energy transfer, and the analysis of momentum conservation. By utilizing advanced programming techniques and physics algorithms, I aim to replicate realistic particle behavior and generate insightful visualizations that illustrate the underlying principles of physics.
 
 
-Simulation:
+**Simulation:**
+https://github.com/user-attachments/assets/4781df6e-05d6-44d8-affd-18dba94ac1e2
+
+**Summary Report:**
+https://batmandor.github.io/gas-simulation-report
 
 
+**Getting Started**
 
-Summary Report:
+To run the simulation, follow these steps:
 
-![5810247f-476c-46d5-b70b-8559e00db7f8-0003](https://github.com/user-attachments/assets/501cacc3-e66a-456c-ab03-ac9ccabb5711)
-![5810247f-476c-46d5-b70b-8559e00db7f8-0000](https://github.com/user-attachments/assets/59115086-4b44-4748-8438-fbd461bc9178)
-![5810247f-476c-46d5-b70b-8559e00db7f8-0002](https://github.com/user-attachments/assets/231bb8cb-e59d-4eb1-953e-4cb5c8bc0b10)
-![5810247f-476c-46d5-b70b-8559e00db7f8-0001](https://github.com/user-attachments/assets/2e571552-ce59-489e-86aa-cda03efe5290)
+    Clone the Repository:
+        git clone https://github.com/BatMandor/Gas-Simulation.git
+        cd Gas-Simulation
+
+    Set Up the Workspace:
+        Make sure you run the setup script to install all necessary dependencies:
+        python setup_workspace.py
+
+    Run the Simulation:
+        Execute the simulation script located in the root folder:
+        python simulation.py
+        You will be prompted to enter the number of collisions for the simulation. Enter a positive integer and press Enter.
+
+
+The simulation utilizes the MultiBallSimulation class located in the thermosnooker folder. 
+
+**License**
+
+This project is licensed under the MIT License
