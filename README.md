@@ -7,3 +7,11 @@ This project focuses on the simulation of fundamental physics concepts, particul
 The simulation encompasses a variety of physical phenomena, including the dynamics of particle collisions, the visualization of energy transfer, and the analysis of momentum conservation. By utilizing advanced programming techniques and physics algorithms, I aim to replicate realistic particle behavior and generate insightful visualizations that illustrate the underlying principles of physics.
 
 Throughout the project, I implemented detailed animations to demonstrate complex interactions in a clear and engaging manner. The objective is to provide an informative tool for students and enthusiasts, enhancing their grasp of essential physics concepts through interactive learning.
+
+Simulation:
+
+
+
+Statistical Analysis:
+
+[ComputingReport_Manasv.pdf](https://github.com/user-attachments/files/17535559/ComputingReport_Manasv.pdf)
