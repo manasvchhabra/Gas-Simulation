@@ -6,13 +6,12 @@ This project focuses on the simulation of fundamental physics concepts, particul
 
 The simulation encompasses a variety of physical phenomena, including the dynamics of particle collisions, the visualization of energy transfer, and the analysis of momentum conservation. By utilizing advanced programming techniques and physics algorithms, I aim to replicate realistic particle behavior and generate insightful visualizations that illustrate the underlying principles of physics.
 
-Throughout the project, I implemented detailed animations to demonstrate complex interactions in a clear and engaging manner. The objective is to provide an informative tool for students and enthusiasts, enhancing their grasp of essential physics concepts through interactive learning.
 
 Simulation:
 
 
 
-Statistical Analysis:
+Summary Report:
 
 [5810247f-476c-46d5-b70b-8559e00db7f8-0003](https://github.com/user-attachments/assets/501cacc3-e66a-456c-ab03-ac9ccabb5711)
 ![5810247f-476c-46d5-b70b-8559e00db7f8-0000](https://github.com/user-attachments/assets/59115086-4b44-4748-8438-fbd461bc9178)
