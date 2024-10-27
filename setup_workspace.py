@@ -1,5 +1,5 @@
-"""
-Setup Script.
+#%%
+"""Setup Script.
 
 Use this script to cerate the user.email and user.name entries necessary in .gitconfig
 This script will also set up a virtual environment from the global distribution and
@@ -69,3 +69,5 @@ except:  # noqa: E722  # pylint: disable=bare-except
 
 logging.info("Script finished.")
 logging.warning("Please re-launch the terminal for changes to take effect.")
+
+# %%

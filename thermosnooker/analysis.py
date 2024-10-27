@@ -1,3 +1,4 @@
+
 """Analysis Module."""
 import matplotlib.pyplot as plt
 import numpy as np
@@ -42,8 +43,7 @@ def task10():
     together or escaping the container.
     """
     mbs = MultiBallSimulation(rmax=8, nrings=3, multi=3)
-    mbs.run(5000, pause_time=0.001, animate=True)
-
+    mbs.run(500, pause_time=0.01, animate=True)
 
 def task11():
     """
@@ -343,3 +343,4 @@ if __name__ == "__main__":
     FIG15 = task15()
 
     plt.show()
+

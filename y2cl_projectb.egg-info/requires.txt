@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+pylint
+pydocstyle
+darglint
+pytest
