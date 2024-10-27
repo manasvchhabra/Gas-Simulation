@@ -4,7 +4,6 @@ Module for running the thermosnooker simulation
 
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 #This try-except is because vscode gives error when running file directly
 # (i.e it does not recognise python package)
 try:
