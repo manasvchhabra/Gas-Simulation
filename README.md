@@ -20,18 +20,22 @@ https://batmandor.github.io/gas-simulation-report
 
 To run the simulation, follow these steps:
 
-    Clone the Repository:
-        git clone https://github.com/BatMandor/Gas-Simulation.git
-        cd Gas-Simulation
+Clone the Repository:
 
-    Set Up the Workspace:
-        Make sure you run the setup script to install all necessary dependencies:
-        python setup_workspace.py
+    git clone https://github.com/BatMandor/Gas-Simulation.git
+    cd Gas-Simulation
 
-    Run the Simulation:
-        Execute the simulation script located in the root folder:
-        python simulation.py
-        You will be prompted to enter the number of collisions for the simulation. Enter a positive integer and press Enter.
+Set Up the Workspace:
+
+    Make sure you run the setup script to install all necessary dependencies:
+    python setup_workspace.py
+
+Run the Simulation:
+    Execute the simulation script located in the root folder:
+    
+    python simulation.py
+    
+You will be prompted to enter the number of collisions for the simulation. Enter a positive integer and press Enter.
 
 
 The simulation utilizes the MultiBallSimulation class located in the thermosnooker folder. 
