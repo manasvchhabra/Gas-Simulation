@@ -35,7 +35,3 @@ To run the simulation, follow these steps:
 
 
 The simulation utilizes the MultiBallSimulation class located in the thermosnooker folder. 
-
-**License**
-
-This project is licensed under the MIT License
