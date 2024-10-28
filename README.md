@@ -20,17 +20,17 @@ https://batmandor.github.io/gas-simulation-report
 
 To run the simulation, follow these steps:
 
-Clone the Repository:
+> Clone the Repository:
 
     git clone https://github.com/BatMandor/Gas-Simulation.git
     cd Gas-Simulation
 
-Set Up the Workspace:
+> Set Up the Workspace:
 
     Make sure you run the setup script to install all necessary dependencies:
     python setup_workspace.py
 
-Run the Simulation:
+> Run the Simulation:
     Execute the simulation script located in the root folder:
     
     python simulation.py
